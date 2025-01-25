@@ -29,7 +29,6 @@ import package
 
 ## Version History
 
-- **v1.0.0** (2024-02-01): Initial release.
 
 ## License
 
